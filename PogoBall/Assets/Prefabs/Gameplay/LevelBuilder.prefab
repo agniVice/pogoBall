@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6029827398382843203
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3065393435996513763}
+  - component: {fileID: 3103388066372498786}
+  m_Layer: 0
+  m_Name: LevelBuilder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3065393435996513763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6029827398382843203}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.41920924, y: 0.3761613, z: -0.034811087}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3103388066372498786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6029827398382843203}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeaa6050d78cbf340ae6cc5d31d0372c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _levels:
+  - {fileID: 11400000, guid: a448af1fff3302a4b9de2d19e2c8e9e8, type: 2}
+  - {fileID: 11400000, guid: 2fd3ff61637da2e46ae704babf11bcda, type: 2}
+  - {fileID: 11400000, guid: f2b713ab3704d074e9311ed7a5911218, type: 2}
+  - {fileID: 11400000, guid: a4ba177029517f44c8981c6b843c5cd9, type: 2}
+  - {fileID: 11400000, guid: 02a68771dcf3a9641bfb6093c734419b, type: 2}
+  - {fileID: 11400000, guid: 4265fb844a0a58148874c3c7e218bbc5, type: 2}
+  - {fileID: 11400000, guid: dc521937cb5e4204a81338e7000dd9d0, type: 2}
+  - {fileID: 11400000, guid: 2b8ba29732b3ac44195f58d947929646, type: 2}
+  - {fileID: 11400000, guid: d074307432918d0428befa9db6f639c1, type: 2}
+  SpawnerPrefabs:
+  - {fileID: 6085540739700744369, guid: 71b38bd7d47e05e4288815f3ea9a2b95, type: 3}
+  - {fileID: 7338419296487885634, guid: 007fd956b01c6aa44985ba7b53983b00, type: 3}
+  - {fileID: 7274423728556514651, guid: 0887274d3ccbd194fbfc49eb5fb456cc, type: 3}
+  - {fileID: 6683293697875004093, guid: 430764812853b1a4089373f31b116029, type: 3}

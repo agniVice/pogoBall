@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59b16b7bb8e8de24cbba6cf568ef9a73, type: 3}
+  m_Name: 7_Level
+  m_EditorClassIdentifier: 
+  ObstaclePositions:
+  - {x: 1.6, y: 0.52, z: 0}
+  - {x: 0.793, y: -0.271, z: 0}
+  - {x: -1.42, y: -1.08, z: 0}
+  - {x: 0.8, y: -2.527, z: 0}
+  - {x: -0.58, y: -3.53, z: 0}
+  ObstacleRotations:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 90}
+  - {x: 0, y: 0, z: 90}
+  - {x: 0, y: 0, z: 90}
+  - {x: 0, y: 0, z: 90}
+  BallPosition: {x: 1.56, y: 1.71, z: 0}
+  BallRotation: {x: 0, y: 0, z: 0}
+  StarPosition: {x: 0.36, y: -2.901, z: 0}
+  StarRotation: {x: 0, y: 0, z: 0}
+  FinishPosition: {x: 1.598, y: -0.247, z: 0}
+  FinishRotation: {x: 0, y: 0, z: 0}
