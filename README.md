@@ -12,6 +12,8 @@ Approximate completion time:
 Time spent on game development: 
 > 12 working hours
 
+Levels:
+> 9
 
 ## Gameplay
 ![ezgif com-video-to-gif (5)](https://github.com/agniVice/pogoBall/assets/138315893/39ad3436-d165-4d33-86cc-680fe7dbb049)
